@@ -1,0 +1,19 @@
+{
+  "name": "praxeus-server",
+  "version": "1.0.0",
+  "description": "Project management system build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haney2121/praxeus.git"
+  },
+  "author": "Justin Haney and Chase Harrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haney2121/praxeus/issues"
+  },
+  "homepage": "https://github.com/haney2121/praxeus#readme"
+}
